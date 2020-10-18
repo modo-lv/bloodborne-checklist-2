@@ -1,0 +1,8 @@
+name: "Bloodborne checklist"
+
+externalLinks:
+  defaultUrl: https://bloodborne.fandom.com/wiki/
+  rewrites:
+    - [ "Maneater Boar", "Maneater Boar (Enemy)" ]
+    # Cleanup
+    - [ " ", "_" ]

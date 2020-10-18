@@ -1,0 +1,13 @@
+labels:
+  "l":
+    name: "Lore"
+    icon: "📜"
+  "t":
+    name: "Talk"
+    icon: "💬"
+  "k":
+    name: "Kill"
+    icon: "☠️"
+  "r"
+    name: "Reward"
+    icon: "💰"

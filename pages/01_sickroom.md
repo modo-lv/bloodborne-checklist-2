@@ -1,0 +1,16 @@
+## [1st Floor Sickroom](@) {#:id}
+This is where you start the game.
+
+:::{:columns}
+
+#### Before [Hunter's Dream] {#sickroom_before}
+- `l` Note {:single=note_sickroom}
+  :? On a chair next to the stretcher where you start the game.
+
+#### After [Hunter's Dream] {#sickroom_after}
+- `t` [Iosefka]
+  :? After visiting the [Hunter's Dream], the door to the room where you woke up will be locked, but you can talk to [Iosefka] through it.
+  :i You can get another one after you spend it, as long as [Father Gascoigne] is alive.
+  `r` [Iosefka's Blood Vial]
+
+:::
