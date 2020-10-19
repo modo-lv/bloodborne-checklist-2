@@ -1,48 +1,5 @@
 :{:columns}
 
-### [Cathedral Ward](@) {#:id}
-
-* [Oedon Chapel](@) {#:id}
-  - `t` [Oedon Chapel Dweller]
-    After sending at least one person to the chapel.
-    `r` "Trimuph" [gesture].
-  
-* Straight stairs {#:id}
-  :? Exit the chapel through the middle exit.
-  - [Madman's Knowledge]
-  - [Wooden Shield]
-  
-* Graveyard
-  :? Exit the chapel through the side exit.
-  - `a` [Hunter Set]
-  - 2 [Blood Stone Shard]s
-
-* Promenade
-  :? From the graveyard, go up the small, narrow stairs and through the raised gate to the left.
-  - [Monocular]
-  - 3 [Blood Stone Shard]s
-  - `e` [Wandering Nightmare]
-    `r` 3 [Bloodstone Shard]s
-  - 5 [Blood Stone Shard]s
-  - [Tempering Blood Gemstone]
-    Physical ATK UP+1.1%
-    HP continues to recover+1
-      
-* Mausoleum {#:id}
-  :? From the graveyard, go left and down the narrow stairs.
-  - [Madman's Knowledge] (floor)
-  - [Madman's Knowledge] (ledge)
-  - `q` [Vileblood Hunter Alfred]
-    :? Go up the stairs to the left of the mausoleum, and follow the path down another flight of stairs on the opposite side.
-    Agree to co-operate.
-    `r` 3 [Fire Paper]s, "Pray" [gesture], summoning at [Blood-Starved Beast] in [Old Yharnam].
-  * Underground
-    - [Tempering Blood Gemstone] (1) (P+0.7%)
-    - [Old Yharnam] lamp
-    - 3 [Pungent Blood Cocktail]s
-
-- Unlock the [Plaza]
-  :? The direct way is to purchase [Hunter Chief Emblem] from the [Messenger Bath] in [Hunter's Dream] (10`000 blood echoes) and use it on the main gate. But you can also go through [Old Yharnam] & defeat the [Blood-Starved Beast], which will unlock [Upper Cathedral Ward], allowing you to reach the plaza through a back way and open all gates from the inside.
 
 
 ### [Hypogean Gaol](@) {#:id}
@@ -129,54 +86,6 @@ Unlocks when you defeat [Blood-starved Beast] in [Old Yharnam].
   - [Madman's Knowledge]
   - [Fire Blood Gemstone] (2) (F+8.4%, HP+1)
   
-
-### [Cathedral Ward](@) ([Plaza] unlocked) {#:id}
-
-* Straight stairs
-  * Rooftops
-    :? Climb up the ladder behind the gate.
-    - [Numbing Mist]×6
-    - [Black Messenger Hat]
-  - `q` [Eileen the Crow]
-    :? Immediately to the left as you exit the chapel.
-    Appears after opening both gates leading to the cathedral.
-    `r` "Shh!" [gesture].
-    - `k` [Henryk] ([Tomb of Oedon] graveyard)
-      :! If [Eileen] dies or you accidentally damage her too many times and turn her hostile, her questline will fail.
-      - [Heir] rune (+30%)
-        :? Dropped by [Henryk].
-      - `q` [Eileen the Crow]
-        `r` "Approval" [gesture].
-    
-* Backstreets
-  :? To the left of the Plaza entrance.
-  - 12 [Poison Knives]
-  - `q` Send [Arianna] to [Oedon Chapel].
-    :? One of the red lantern doors at the dead end of the alley.
-    Becomes possible after killing a total of 3 bosses.
-    - `q` Send [Narrow Minded Man] to [Iosefka's Clinic]
-      :? One of the red lantern doors at the dead end of the alley.
-    - `q` [Arianna] ([Oedon Chapel]).
-      :? Reload the are after sending her to the chapel.
-      `r` "Curtsy" [gesture], [Blood of Arianna].
-  - [Black Church Set]
-  - 18 [Poison Knives]
-  - `l` Note
-    :? Top of the tower, where you climb up the ladder at the very end.
-  
-* Plaza {#:id}
-  - 5 × [Madman's Knowledge]
-  - 2 [Twin Blood Stone Shard]s
-  - [Tempering Blood Gemstone] (2) (P+7.5%)
-  
-* [Grand Cathedral](@) {#:id}
-  - `b` [Vicar Amelia]
-    `r` [Gold Pendant].
-    - `u` [Gold Pendant]
-      `r` [Gold Blood Gem] (VB+12.6%)
-    - Password for the [Forbidden Woods]
-      :? Examine the altar.
-      
 
 ### [Hemwick Charnel Lane](@) {#:id}
 :? Go left at the point on the [Grand Cathedral] stairs where the [Black Church Servant]s are.

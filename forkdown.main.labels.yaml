@@ -5,9 +5,18 @@ labels:
   "t":
     name: "Talk"
     icon: "💬"
-  "k":
-    name: "Kill"
+  "e":
+    name: "Kill (enemy)"
     icon: "☠️"
-  "r"
+  "r":
     name: "Reward"
     icon: "💰"
+  "!":
+    name: "Badge"
+    icon: "🏷️"
+  "b":
+    name: "Boss"
+    icon: "👾"
+  "q":
+    name: "Quest"
+    icon: "🧩"

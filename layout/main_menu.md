@@ -16,11 +16,24 @@
   * [Central Yharnam revisited](yharnam_after_oedon)
 * Mid
   * [Cathedral Ward]
+    * [Oedon Chapel]
+    * [Straight Stairs]
+    * [Graveyard]
+    * [Promenade]
+    * [Mausoleum]
   * [Old Yharnam]
+    * [Entrance](old_entrance)
+    * [Buildings](old_buildings)
+    * [Church](old_church)
+    * [Streets](old_streets)
+    * [Church of the Good Chalice](old_boss)
   * [Hypogean Gaol]
   * [Healing Church Workshop]
-  * [Cathedral Ward (Plaza unlocked)]
+  * [Cathedral Ward (Plaza unlocked)](plaza_unlocked)
+    * [Straight Stairs](plaza_straight)
+    * [Backstreets](plaza_backstreets)
   * [Hemwick Charnel Lane]
+  * [Grand Cathedral]
 * Late
   * [Forbidden Woods (part 1)]
   * [Iosefka's Clinic]

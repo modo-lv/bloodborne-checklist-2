@@ -15,10 +15,13 @@ You being the game in [1st Floor Sickroom], but Hunter's Dream is your base of o
 - [Silencing Blank]
 - [Old Hunter Bell] (DLC)
 
-### `l` [Gherman] and [Doll]
-+ After [Father Gascoigne] {:single=lore_after_gascoigne}
-+ After [Blood-Starved Beast]
+### `l` [Gherman]
++ After [Father Gascoigne] {:single=gherman_after_gascoigne}
++ After [Blood-Starved Beast] {:single=gherman_after_bsb}
 + After [Vicar Amelia], 15+ [Insight]
 	:? Outside, in the area to the left of the workshop.
 + After [Rom, the Vacuous Spider]
 	:? Outside, in the area to the left of the workshop.
+
+### `l` [Doll]
++ After [Father Gascoigne] {:single=doll_after_gascoigne}

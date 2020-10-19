@@ -53,7 +53,7 @@
   :? Drop down from above on one of the wooden beams across the aqueduct.
 - `m` [Shard] (ground)
   :? In a small alcove to the side of the 3 [Rotted Corpse]s, shortly before the tunnel with the [Maneater Boar].
-- `b` [Saw Hunter Badge]
+- `!` [Saw Hunter Badge]
   :? In the tunnel the [Maneater Boar] comes out of.
  
 #### Behind the [Square] {#:id}
