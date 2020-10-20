@@ -1,4 +1,5 @@
 ## [Old Yharnam](@) {#:id}
+:? From the Old Yharnam [lamp] in the basement of the [Mausoleum], go through the wooden doors (you need interact with them twice).
 :! Do not kill [Djura] (the tower gunner) if you want to get "Brush Off Dust" [gesture] later on.
 
 #### Entrance {#old_entrance}
@@ -68,7 +69,7 @@
   - `l` [Gherman] {:single=gherman_after_bsb}
     In [Hunter's Dream].
 
-  You can now access [Pthumerian Labyrinth](pthumeru).
+  You can now access [Healing Church Workshop], [Hypogean Gaol] and [Pthumerian Labyrinth](pthumeru).
 
 ### After [Darkbeast Paarl]
 - `t` [Djura] (non-hostile) {#:id}

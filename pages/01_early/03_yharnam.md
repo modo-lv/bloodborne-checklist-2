@@ -95,7 +95,7 @@
 - [Bold Hunter's Mark]×2
 
 
-### Revisited {#yharnam_after_oedon}
+### Evening {#yharnam_after_oedon}
 After talking to the [Oedeon Chapel Dweller].
 - `q` [Iosefka]
   Enable sending people to the clinic.

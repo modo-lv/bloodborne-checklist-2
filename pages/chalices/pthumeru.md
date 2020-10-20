@@ -8,8 +8,11 @@
   - `b` [Merciless Watchers and Chieftain]
     `r` [Pthumeru Root Chalice].
 * Layer 3
-  - `k` [Wandering Nightmare]
+  - `e` [Wandering Nightmare] ([Florescent Flower])
     :? To the left of the ground level entrance of the large open area, next to the [Fluorescent Flower].
+    `r` [Blood Gem].
+  - `e` [Wandering Nightmare] (under the platform)
+    :? As you enter the large open area, go slightly left and through the arches under the central platform.
     `r` [Blood Gem].
   - [Tomb Mould (1)]×3
   - [Ritual Blood (2)]

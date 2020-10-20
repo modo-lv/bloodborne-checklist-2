@@ -16,7 +16,9 @@
 
 #### [Cathedral Ward]
 - `q` [Oedon Chapel Dweller]
-  - `l` [Gherman] & [Doll] {:single=lore_after_gascoigne}
-    In [Hunter's Dream].
+  - `l` [Gherman] {:single=gherman_after_gascoigne}
+    :? In [Hunter's Dream].
+  - `l` [Doll] {:single=doll_after_gascoigne}
+    :? In [Hunter's Dream].
   
   Talk to the chapel dweller, then [Revisit Central Yharnam](yharnam_after_oedon).

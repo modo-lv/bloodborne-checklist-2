@@ -7,7 +7,7 @@
   
 #### Straight stairs {#:id}
 :? Exit the chapel through the middle doorway.
-- [Madman's Knowledge]
+- [Madman's Knowledge] {:single=stairs_madman}
 - [Wooden Shield] {:single}
   
 #### Graveyard {#:id}
@@ -40,45 +40,60 @@
   - [Old Yharnam] [lamp]
 
 
-### [Plaza] unlocked {#:id}
-:? The direct way is to purchase [Hunter Chief Emblem] from the [Messenger Bath] in [Hunter's Dream] (10`000 blood echoes) and use it on the main gate. But you can also go through [Old Yharnam] & defeat the [Blood-Starved Beast], which will unlock [Upper Cathedral Ward], allowing you to reach the plaza through a back way and open all gates from the inside.
+### Inner [Cathedral Ward] {#:id}
+:? The most direct way to access this part of the [Cathedral Ward] is to purchase [Hunter Chief Emblem] from the [Messenger Bath] in [Hunter's Dream] (10`000 blood echoes) and use it on the main gate (up the winding stairway). But you can also go to [Old Yharnam] & defeat the [Blood-Starved Beast], which will unlock [Upper Cathedral Ward], allowing you to reach the plaza through a back way and open all gates from the inside.
 
 #### Straight stairs {#plaza_straight}
+- `s` Side gate
+  :? The gate at the top of the straight stairs, pull the lever from inside to open them.
+  :i Connects the straight stairs with the stairway to the [Grand Cathedral].
+- [Madman's Knowledge] {:single=stairs_madman}
+- [Wooden Shield] {:single}
 * Rooftops
   :? Climb up the ladder behind the gate.
   - [Numbing Mist]×6
   - [Black Messenger Hat]
 - `q` [Eileen the Crow]
   :? Immediately to the left as you exit the chapel.
-  Appears after opening both gates leading to the cathedral.
+  Appears when you reload the area after opening the [Plaza] gate.
   `r` "Shh!" [gesture].
-  - `k` [Henryk] ([Tomb of Oedon] graveyard)
+  - `e` [Henryk] ([Tomb of Oedon] graveyard)
     :! If [Eileen] dies or you accidentally damage her too many times and turn her hostile, her questline will fail.
     - [Heir] rune (+30%)
       :? Dropped by [Henryk].
     - `q` [Eileen the Crow]
       `r` "Approval" [gesture].
     
-#### Backstreets {#plaza_backstreets}
+#### Alley {#plaza_alley}
 :? To the left of the [Plaza] entrance.
 - [Poison Knife]×12
 - `q` Send [Arianna] to [Oedon Chapel]
-  :? One of the red lantern doors at the dead end of the alley.
+  :? First NPC door at the start of the alley.
   Becomes possible after killing a total of 3 bosses.
   - `q` Send [Narrow Minded Man] to [Iosefka's Clinic]
-    :? One of the red lantern doors at the dead end of the alley.
-  - `q` [Arianna] ([Oedon Chapel]).
-    :? Reload the are after sending her to the chapel.
+    :? Second NPC door at the start of the alley.
+  - `q` [Arianna] ([Oedon Chapel])
+    Reload the area after sending her to the chapel.
     `r` "Curtsy" [gesture], [Blood of Arianna].
+- `l` NPC door (left)
+- `l` NPC door (right)
 - [Black Church Set]
-- 18 [Poison Knives]
-- `l` Note
+- [Poison Knife]×18
+- `l` Note (tower)
   :? Top of the tower, where you climb up the ladder at the very end.
   
 #### Plaza {#:id}
-- 5 × [Madman's Knowledge]
-- 2 [Twin Blood Stone Shard]s
-- [Tempering Blood Gemstone] (2) {P+7.5%}
+- [Madman's Knowledge]
+- [Madman's Knowledge]
+- [Madman's Knowledge]
+- [Madman's Knowledge]
+- [Madman's Knowledge]
+* Side passage
+  - [Twin Shards]×2
+  - [Tempering Blood Gemstone] (2)
+    P+7.5%.
+    
+
   
 #### [Grand Cathedral](@) {#:id}
 - `b` [Vicar Amelia]
@@ -87,4 +102,4 @@
     `r` [Gold Blood Gem] {Beast+12.6%}
   - Password for the [Forbidden Woods]
     :? Examine the altar.
-    :i Getting the password starts the night time, 
+    :i Getting the password advances time, starting the night.
