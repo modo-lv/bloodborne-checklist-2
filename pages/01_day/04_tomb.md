@@ -1,4 +1,4 @@
-## [Tomb of Oedon](@){#:id}
+# [Tomb of Oedon](@){#:id}
 
 #### Graveyard
 - `b` [Father Gascoigne]
@@ -8,17 +8,11 @@
 - [Red Jeweled Brooch]
   :? On the roof of the only building in the graveyard.
   - `u` [Red Jeweled Brooch]
-    `r` [Red Blood Gem] (P+2.7%, R+1.8%)
+    `r` [Red Blood Gem]
+    :i Physical+2.7%, Rally+1.8%.
 
 #### Passage to [Cathedral Ward]
 - `l` Note
 - [Blood Gem Workshop Tool]
 
-#### [Cathedral Ward]
-- `q` [Oedon Chapel Dweller]
-  - `l` [Gherman] {:single=gherman_after_gascoigne}
-    :? In [Hunter's Dream].
-  - `l` [Doll] {:single=doll_after_gascoigne}
-    :? In [Hunter's Dream].
-  
-  Talk to the chapel dweller, then [Revisit Central Yharnam](yharnam_after_oedon).
+[Entering the Oedon Chapel for the first time](oedon_arrival) advances time to **Evening**.

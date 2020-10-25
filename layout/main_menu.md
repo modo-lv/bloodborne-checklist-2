@@ -5,6 +5,8 @@
   * [Central Yharnam]
   * [Tomb of Oedon]
 * Evening
+  * [Hunter's Dream](dream_evening)
+  * ---
   * [Central Yharnam revisited](yharnam_after_oedon)
   * [Cathedral Ward]
   * [Old Yharnam]
@@ -14,6 +16,8 @@
   * [Hypogean Gaol]
   * [Grand Cathedral]
 * Night
+  * [Hunter's Dream](dream_night)
+  * ---
   * [Forbidden Woods (part 1)]
   * [Iosefka's Clinic]
   * [Forbidden Woods (part 2)]

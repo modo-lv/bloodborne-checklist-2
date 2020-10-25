@@ -2,11 +2,11 @@
 :? Go through the originally locked door in [Oedon Chapel] (on the right when coming from the [lamp]).
 Unlocks when you defeat [Blood-starved Beast] in [Old Yharnam]'s [Church of the Good Chalice].
 
-* Chapel walkways
++ ###### Chapel walkways
   :? There's an opening in the wall halfway up the elevator shaft. Run/roll through it as you ascend/descend.
   - [Formless Oedon] (+4)
   - [Messenger Urn Festival]
-- [Communion] (+1)
++ [Communion] (+1)
 - `e` [Wandering Nightmare]
   :? Go around the left side of the tower.
   `r` [Twin Shards]×2
@@ -23,11 +23,11 @@ Unlocks when you defeat [Blood-starved Beast] in [Old Yharnam]'s [Church of the 
     `r` [Tear Stone]
     - `u` [Tear Stone]
       `r` [Tear Blood Gem]
-      HP+2.
+      :i HP+2.
 
 #### Upper tower
 - [Bloodtinge Gemstone] (2)
-  Blood+12.6%.
+  :i Blood+12.6%.
 - `!` [Radiant Sword Hunter Badge]
 - `l` Note
   :? Go around the outside of the top floor, on the right.
@@ -44,6 +44,6 @@ Unlocks when you defeat [Blood-starved Beast] in [Old Yharnam]'s [Church of the 
 - [Rumpled Set]
 - [Madman's Knowledge]
 - [Fire Blood Gemstone] (2)
-  Fire+8.4%, HP+1.
+  :i Fire+8.4%, HP+1.
   
 From here you have access to [Inner Cathedral Ward].
