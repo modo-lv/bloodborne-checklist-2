@@ -1,4 +1,4 @@
-* Day
+* Afternoon
   * [Hunter's Dream]
   * ---
   * [1st Floor Sickroom]
@@ -6,8 +6,8 @@
   * [Tomb of Oedon]
 * Evening
   * [Hunter's Dream](dream_evening)
-  * ---
   * [Central Yharnam revisited](yharnam_after_oedon)
+  * ---
   * [Cathedral Ward]
   * [Old Yharnam]
   * [Healing Church Workshop]
@@ -17,10 +17,13 @@
   * [Grand Cathedral]
 * Night
   * [Hunter's Dream](dream_night)
+  * [NPC doors at night](doors_night)
   * ---
-  * [Forbidden Woods (part 1)]
+  * [Forbidden Woods]
   * [Iosefka's Clinic]
-  * [Forbidden Woods (part 2)]
+  * [Forbidden Woods (part 2)](fb_2)
+  * [Lecture Building (1st floor)](lecture_building)
+  * [Nightmare Frontier]
   * [Castle Cainhurst]
   * [Byrgenwerth]
 * Blood moon
@@ -36,15 +39,15 @@
   * [Fishing Hamlet]
   * [Hunter's Nightmare revisited]
 * Chalices
-  * [Pthumeru]
-    * [Central]
-    * [Lower](pthumeru_lower)
+  * [Pthumeru]\: [1](p1), [2](p2), [3](p3)
+    * [Central]\: [1](cp1), [2](cp2), [3](cp3)
+    * [Lower](pthumeru_lower)\: [1](lp1), [2](lp2), [3](lp3), [4](lp4)
     * [Defiled]
     * [Great Ihyll]
-  * [Hintertomb]
+  * [Hintertomb]\: [1](hinter1), [2](hinter2), [3](hinter3)
     * [Lower]
   * [Ailing Loran]
     * [Lower]
   * [Great Isz]
+  * [Farming]
 * Info
-  * [About](index)

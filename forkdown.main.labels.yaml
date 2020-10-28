@@ -20,3 +20,6 @@ labels:
   "q":
     name: "Quest"
     icon: "🧩"
+  "iw":
+    name: "Invisible wall"
+    icon: "🎯"

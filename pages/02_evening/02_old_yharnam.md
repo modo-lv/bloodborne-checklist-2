@@ -13,16 +13,16 @@
     :? Across the small bridge
   
 + ### Buildings {#old_buildings}
-  - :- Building 1
+  - :# Building 1
     - [Shard]
-  - :- Building 2
+  - :# Building 2
     - [Shard]×2
     - [Fire Paper]×2
     - [Bloodtinge Gemstone] (1)
       :i Blood+1.8%
   - `e` [Djura's Ally]
     `r` [Bone Marrow Ash]×6
-  + :- Building 1 basement {#old_b1_b}
+  + :# Building 1 basement {#old_b1_b}
     :? Go across the open area with the smoke stacks (where you fight [Djura's Ally]) and drop down over the ledge in the rear left corner.
     - [Tempering Blood Gemstone] (1)
       :i Physical+2.1%, Charge+0.4%
@@ -31,7 +31,7 @@
     - [Charred Hunter Set]
 
 + ### Church {#old_church}
-  + :- Rafters
+  + :# Rafters
     :? Climb up the first ladder going up the gunner's tower, turn right and drop down onto the wooden platform below.
     :i If you hit the urn hanging next to one of the chains, it will ignite the giant hanging beast corpse below, killing many of the beasts gathered there.
     - [Madman's Knowledge]
@@ -43,7 +43,7 @@
   - [Madman's Knowledge]
   - [Ritual Blood] (1)×2
 
-  + :- Outside
+  + :# Outside
     - [Shard]×2
     - `s` Ladder & gate
       :i Connects the streets of Old Yharnam with the foot of [Djura]'s tower.
@@ -54,7 +54,7 @@
     `r` [Shard]×3
   - [Shard]×2
   - [Blood Pellet]×6
-  - :- Tower
+  - :# Tower
     :? Buildings that the [Scourge Beast] breaks out of.
     - [Shard]×2
     - [Fire Paper]×2

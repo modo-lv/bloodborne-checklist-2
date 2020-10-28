@@ -57,7 +57,7 @@
   :i Connects the straight stairs with the stairway to the [Grand Cathedral].
 - [Madman's Knowledge] {:single=stairs_madman}
 - [Wooden Shield] {:single}
-- :- Rooftops
+- :# Rooftops
   :? Climb up the ladder behind the gate.
   - [Numbing Mist]×6
   - [Black Messenger Hat]
@@ -99,13 +99,16 @@
 - [Madman's Knowledge]
 - [Madman's Knowledge]
 - [Madman's Knowledge]
-- :- Side passage
+- :# Side passage
   - [Twin Shards]×2
   - [Tempering Blood Gemstone] (2)
     :i Physical+7.5%.
     
-#### Ancient church
+#### Ancient Church {#:id}
 :? Go up the main stairway to the [Grand Cathedral] and turn right before the last set of stairs.
+- `e` [Wandering Nightmare] (stairs)
+  :? In the narrow space between the stairs going down into the area and the building with the [Carrion Crow]s on the roof. If you drop off the right side of the roof, you'll land right on top of it.
+  `r` [Shard]×3
 - `l` NPC door
 - `l` NPC door
 - [Twin Shards]
@@ -113,10 +116,10 @@
 - `e` [Wandering Nightmare] (cave)
   :? From the small plaza with the well, go down the narrow winding stairs to find the [Wandering Madness] right at the small cave entrance.
   `r` [Shard]×3
-- `e` [Wandering Nightmare] (entrance)
+- `e` [Wandering Nightmare] (church)
   :? To the left of the church entrance.
   `r` [Twin Shards]×2
-- `e` [Wandering Nightmare] (entrance)
+- `e` [Wandering Nightmare] (church)
   :? To the right of the church entrance.
   `r` [Twin Shards]×2
 - [Lead Elixir]
@@ -129,6 +132,7 @@
   - `u` [Gold Pendant]
     `r` [Gold Blood Gem]
     :i vsBeast+12.6%.
+  - Grand Cathedral [lamp]
   - Password for the [Forbidden Woods]
     :? Examine the altar.
     Getting the password advances time, starting the **Night**.

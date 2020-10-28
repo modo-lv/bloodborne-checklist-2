@@ -4,7 +4,7 @@
   :? The barred window with a red light, next to the [Central Yharnam] [lamp].
   :! Avoid swinging weapons around the window, as hitting it too many times will anger [Gilbert], permanently preventing all conversation.
   
-#### Street {#:id}
+#### Main Street {#:id}
 :? The cobblestone street patrolled and guarded by villagers that you inevitably end up on after the [Central Yharnam] [lamp].
 - `s` Gate
   :i Connects the [Central Yharnam] [lamp] more directly to the street.
@@ -13,7 +13,7 @@
 - [Shard]
 - `l` NPC door (well)
   
-#### Square {#:id}
+#### The Plaza {#:id}
 :? The area the [Street] leads into, with a fountain in the center and a [Huntsman's Minion] banging on the large gate.
 - [Shard]
 - `t` NPC door
@@ -24,7 +24,7 @@
 #### Backstreets {#:id}
 :? Normally you reach this part of the city by defeating / running past the pair of [Scourge Beast]s on the [Great Bridge] and either dropping down the hole in the ledge on the right, or going down the stairs on the left. But you can also reach it from the main square: roll through the caskets on the left of the NPC door and through the hole in the fence.
 :i The alleys connecting [Central Yharnam] [lamp], [Great Bridge] and [Dry Dock].
-- :- Wooden house
+- :# Wooden house
   - [Pungent Blood Cocktail]×2
   - `l` Note
 - [Shard]
@@ -35,7 +35,7 @@
 :? From the [backstreets], go past the kennels and over the short bridge.
 - `t` [Lonely Old Dear]
   :? Door with a red lantern to the left of the dry dock entrance.
-+ :- Rafters
++ :# Rafters
   :? Instead of going down the stairs, roll through the barrels to the right of the stairs, and drop through the open window behind them.
   - `t` [Eileen the Crow]
     :? From where you dropped onto the rafters, turn right and follow the walkway to another set of barrels with an open window behind them.
@@ -81,7 +81,7 @@
 #### Upper [Sewers] {#:id}
 :? At the start of the [Great Bridge], facing the pair of [Scourge Beast]s, go down the stairs on the left.
 :i Once you make your way through, dropping down the wooden beams from the high ledge will land you in [Lower Sewers].
-- :- Entrance
+- :# Entrance
   :? The ledge overlooking main street.
   - [Shard]
   - [Shard]

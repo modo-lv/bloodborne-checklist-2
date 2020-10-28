@@ -4,5 +4,7 @@ externalLinks:
   defaultUrl: https://bloodborne.fandom.com/wiki/
   rewrites:
     - [ "Maneater Boar", "Maneater Boar (Enemy)" ]
+    - pattern: "^([Bb]lood [Gg]emstone)$"
+      rewrite: "Blood Gems"
     # Cleanup
     - [ " ", "_" ]
