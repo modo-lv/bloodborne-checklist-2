@@ -12,8 +12,11 @@ labels:
     name: "Reward"
     icon: "💰"
   "!":
-    name: "Badge"
+    name: "Unlock"
     icon: "🏷️"
+  "y":
+    name: "Rune"
+    icon: "☮️"
   "b":
     name: "Boss"
     icon: "👾"

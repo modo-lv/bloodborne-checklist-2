@@ -1,8 +1,8 @@
 # [Central Yharnam](@) {#:id}
 
-- `l` [Gilbert] (day)
+- `l` [Gilbert]
   :? The barred window with a red light, next to the [Central Yharnam] [lamp].
-  :! Avoid swinging weapons around the window, as hitting it too many times will anger [Gilbert], permanently preventing all conversation.
+  :! Avoid swinging weapons around the window, as hitting it too many times will anger [Gilbert], permanently ending all conversation.
   
 #### Main Street {#:id}
 :? The cobblestone street patrolled and guarded by villagers that you inevitably end up on after the [Central Yharnam] [lamp].
@@ -13,7 +13,7 @@
 - [Shard]
 - `l` NPC door (well)
   
-#### The Plaza {#:id}
+#### Plaza {#yharnam_plaza}
 :? The area the [Street] leads into, with a fountain in the center and a [Huntsman's Minion] banging on the large gate.
 - [Shard]
 - `t` NPC door
@@ -22,7 +22,7 @@
 - `w a` [Torch]
 
 #### Backstreets {#:id}
-:? Normally you reach this part of the city by defeating / running past the pair of [Scourge Beast]s on the [Great Bridge] and either dropping down the hole in the ledge on the right, or going down the stairs on the left. But you can also reach it from the main square: roll through the caskets on the left of the NPC door and through the hole in the fence.
+:? Normally you reach this part of the city by defeating / running past the pair of [Scourge Beast]s on the [Great Bridge] and either dropping down the hole in the ledge on the right, or going down the stairs on the left. But you can also reach it from the [plaza](yharnam_plaza): roll through the caskets on the left of the NPC door and through the hole in the fence.
 :i The alleys connecting [Central Yharnam] [lamp], [Great Bridge] and [Dry Dock].
 - :# Wooden house
   - [Pungent Blood Cocktail]×2
@@ -57,18 +57,19 @@
 - `!` [Saw Hunter Badge]
   :? In the tunnel the [Maneater Boar] comes out of.
  
-#### Behind the [Square] {#:id}
+#### Behind the [Plaza] {#:id}
 :? Until the shortcut has been opened, this area can only be accessed through the [Lower Sewers], by climbing up the ladder on the wooden platform in the corner of the open area with a bunch of [Rotted Corpse]s.
 - [Madman's Knowledge]
   :? Around the corner from the ladder, guarded by [Carrion Crow]s.
 - `t` NPC door
 - `s` Gate
   :? Go up the ladder next to the [Huntsman's Minion].
-  :i Shortcut between the the [Square] and the [Lower Sewers].
+  :i Shortcut between the the [Plaza] and the [Lower Sewers].
 - `q` [Young Girl]
   :? Go up the ladder next to the [Huntsman's Minion] and talk to the red lantern window.
   Agree to find her mother.
-  `r` [Tiny Music Box]
+  - :# [Tiny Music Box]
+    :i Can be used in the fight with [Gascoigne].
 
 #### [Great Bridge](@) {#:id}
 - [Shard]
@@ -76,7 +77,7 @@
 - `b` [Cleric Beast]
   :? On the far end of the [Great Bridge].
   :i This boss is optional but recommended, since encountering it gives you [Insight], allowing you to unlock [level up] without spending [Madman's Knowledge], and the reward for defeating it is a badge that unlocks several useful items in the shop.
-  `r` [Sword Hunter Badge], [Insight]×1,×3
+  - :# `!` [Sword Hunter Badge]
 
 #### Upper [Sewers] {#:id}
 :? At the start of the [Great Bridge], facing the pair of [Scourge Beast]s, go down the stairs on the left.
@@ -85,7 +86,7 @@
   :? The ledge overlooking main street.
   - [Shard]
   - [Shard]
-- `a` [Hunter Set]
+- [Hunter Set]
   :? Follow the sewers as far as they will go and look to the left when you reach the ledge.
 
 #### Bridge to the [Tomb of Oedon] {#:id}
@@ -102,9 +103,9 @@ After talking to the [Oedeon Chapel Dweller].
 - `q` [Imposter Iosefka]
   Enable sending people to [Iosefka's Clinic].
 - `t` [Gilbert]
-  `r` [Flamesprayer].
+  - :# [Flamesprayer]
 - `q` Send [Lonely Old Dear] to [Oedon Chapel]
 - `q` Send [Young Girl] to [Oedon Chapel]
-  - `k` [Maneater Boar]
+  - `e` [Maneater Boar]
     :? The one in the [lower sewers]; reload the area after sending [Young Girl] to the chapel.
-    `r` [Red Messenger Ribbon].
+    - [Red Messenger Ribbon]

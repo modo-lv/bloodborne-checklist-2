@@ -45,7 +45,7 @@
     * [Defiled]
     * [Great Ihyll]
   * [Hintertomb]\: [1](hinter1), [2](hinter2), [3](hinter3)
-    * [Lower]
+    * [Lower](hinterlow): [1](lh1), [2](lh2), [3](lh3)
   * [Ailing Loran]
     * [Lower]
   * [Great Isz]
