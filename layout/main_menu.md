@@ -19,12 +19,12 @@
   * [Hunter's Dream](dream_night)
   * [NPC doors at night](doors_night)
   * ---
-  * [Forbidden Woods]
+  * [Forbidden Woods] (part 1)
   * [Iosefka's Clinic]
   * [Forbidden Woods (part 2)](fb_2)
+  * [Forsaken Cainhurst Castle]
   * [Lecture Building (1st floor)](lecture_building)
   * [Nightmare Frontier]
-  * [Castle Cainhurst]
   * [Byrgenwerth]
 * Blood moon
   * [Yharnam (blood moon)]

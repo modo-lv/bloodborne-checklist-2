@@ -13,3 +13,5 @@ Those that don't change or become simply inarticulate sounds are not listed.
     - [Adella]
   - [Alley], left
   - [Alley], right
+  - [Alfred]
+    :i You can now ask him about [Vileblood]s.
