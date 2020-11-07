@@ -3,13 +3,20 @@
 #### Layer 1 {#l1}
 + ###### Lateral dungeon (layer)
   - [Oil Urn]
+  - [Tomb Mold (4)]
+  - `e` [Wandering Nightmare]
+    :? In the big room with several [Beast Patient]s (and a [Nightmare Apostle] by the back door).
   - [Ritual Blood (4)]
 + [Ritual Blood (5)]×2
 + ###### Lateral dungeon (heart)
+  - `e` [Wandering Nightmare]
+    :? In the first room you reach after the initial corridor.
   - [Ritual Blood (4)]
-  - [Ritual Blood (4)]
-  - [Tomb Mold (4)]×2
-  - Odd Fire Damp [Blood Gem]
+  - :# Treasure Room
+    - [Ritual Blood (4)]
+    - [Ritual Blood (4)]
+    - [Tomb Mold (4)]×2
+    - Odd Fire Damp [Blood Gem]
 + `b` [Beast-possessed Soul]
 
 #### Layer 2 {#l2}
@@ -36,6 +43,7 @@
 - [Bolt Paper]
 + ###### Lateral dungeon (heart)
   - [Madman's Knowledge]
+  - [Bastard of Loran]×2
   - :# Treasure Room
     - [Bastard of Loran]×2
     - [Blooming Coldblood Flower]×3

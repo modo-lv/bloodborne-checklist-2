@@ -1,4 +1,4 @@
-# [Lower Pthumerian Labyrinth] {#pthumeru_lower}
+# [Lower Pthumerian Labyrinth](@) {#:id}
 
 #### Layer 1 {#lp1}
 - ###### Lateral dungeon (layer)

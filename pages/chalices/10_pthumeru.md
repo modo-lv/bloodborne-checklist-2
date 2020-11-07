@@ -1,4 +1,4 @@
-# [Pthumerian Labyrinth] {#pthumeru}
+# [Pthumerian Labyrinth](@) {#:id}
 :? Chalice acquired by defeating [Blood-Starved Beast] in [Old Yharnam]'s [Church of the Good Chalice](old_boss). You must then interact with one of the vacant tombstones on the left (facing the workshop) and perform the chalice ritual.
 
 #### Layer 1 {#p1}

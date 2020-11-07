@@ -1,4 +1,4 @@
-# [Hintertomb](@) Labyrinth {#hintertomb}
+# [Hintertomb Labyrinth](@) {#:id}
 
 #### Layer 1 {#hinter1}
 + ###### Lateral dungeon (heart)

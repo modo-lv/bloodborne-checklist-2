@@ -1,12 +1,10 @@
 # [Chalice Dungeon] farming {#farming}
 
 ## [Runes](@)
-Drops only found in procedurally generated (root) dungeons.
+Rune versions only found in procedurally generated (root) dungeons.
 
-+ [Blood Rapture] (+250)
-  :? [Cursed and Defiled Root Chalice]. Online: **3zcvutw8** (F/R/C, L1, heart dungeon), *dtx7qxbq* (L1, lamp dungeon).
-+ [Clawmark] (+30%)
-  :? [Lower Ailing Loran Root Chalice]. Online:
-
-- [Clear Deep Sea] (+300)
-  [Lower Ailing Loran Root]
+#### [Cursed and Defiled Root Chalice]
+- [Blood Rapture] (+250)
+  :? **`3zcvutw8`** F/R/C: Layer 1, lateral dungeon (heart)
+- [Lake] (+5%)
+  :? **`vxnwjixk`** F/R/C: Layer 1, lateral dungeon (heart)

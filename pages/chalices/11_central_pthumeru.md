@@ -1,4 +1,4 @@
-# [Central Pthumerian Labyrinth] {#central}
+# [Central Pthumerian Labyrinth](@) {#:id}
 
 #### Layer 1 {#cp1}
 - [Ritual Blood (2)]×2

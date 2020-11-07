@@ -26,7 +26,7 @@
   - `s` Elevator
     :i Connects the library to the building near the [lamp].
   - [Evelyn]
-  - :# Secluded Reading Rooms {#:id}
+  - :# Secluded Reading Room {#:id}
     :? Accessible through the balcony.
     - [Executioner's Gloves]
     - [Knight's Set]

@@ -1,4 +1,4 @@
-# [Lower Hintertomb Labyrinth](@) {#hinterlow}
+# [Lower Hintertomb Labyrinth](@) {#:id}
 
 #### Layer 1 {#lh1}
 + ###### Lateral dungeon (layer)
