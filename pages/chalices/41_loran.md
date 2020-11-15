@@ -43,8 +43,11 @@
 - [Bolt Paper]
 + ###### Lateral dungeon (heart)
   - [Madman's Knowledge]
-  - [Bastard of Loran]×2
-  - :# Treasure Room
+  + :# Single Chest Room
+    - [Bastard of Loran]×2
+    - [Wandering Nightmare] (chest)
+    - [Wandering Nightmare] (floor)
+  + :# Treasure Room
     - [Bastard of Loran]×2
     - [Blooming Coldblood Flower]×3
     - [Blooming Coldblood Flower]×3

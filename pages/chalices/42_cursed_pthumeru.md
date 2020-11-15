@@ -16,8 +16,10 @@
   - [Ritual Blood (5)]
 + [Ritual Blood (5)]×2
 - [Tomb Mould (4)]×2
-- [Bone Marrow Ash]×3 (main hall)
+- [Bone Marrow Ash]×3 (grand hall)
 - [Bone Marrow Ash]×3 (stairs)
+- [Wandering Nightmare]
+  :? In the grand hall, ground floor, under (behind) the central stairs.
 + ###### Lateral Dungeon: Heart
   - [Ritual Blood (5)]×3
   - [Inflicted Organ]×2

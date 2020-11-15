@@ -26,3 +26,17 @@ Includes the path leading up to it.
   - Make Contact [gesture]
     :i This gesture is needed to acquire [Moon] (+30%) rune later in [Nightmare of Mensis].
   
+#### Lumenflower Gardens
+- `b` [Celestial Emisarry]
+  - :# `y` [Communion] (+4)
+  - Lumenflower Gardens [lamp]
+  
+#### Grand Cathedral Walkways
+- `t` [A Call Beyond]
+
+#### Altar of Despair
++ `b` [Ebrietas, Daugher of the Cosmos]
+  - :# [Great Isz Chalice]
+- Altar of Despair [lamp]
+- `q` Place [Queenly Flesh] in the altar
+  :i You can now return to [Vileblood Queen's Chamber] and talk to [Annalise] again.

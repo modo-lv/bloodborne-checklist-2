@@ -87,26 +87,33 @@
 - [Twin Shards]×2
 - `w` [Whirlgig Saw]
 
+
+
 #### Nightmare Clinic {#:id}
 
-###### [Underground Corpse Pile](@) {#:id}
-- `b` [Ludwig] the Accursed, [Ludwig] the Holy Blade
-  - :# `y` [Guidance] (+20%)
-- Underground Corpse Pile [lamp]
-- `t` [Ludwig]'s Head
-  :i There are three different dialogs you can get. Talking to the head while wearing a church attire chest piece will provide a choice between two, and wearing something else will result in the third.
-  - `w` [Holy Moonlight Sword]
-    :? Talk to [Ludwig]'s head while wearing a church clothing and respond "Yes" to pick it up immediately. Otherwise reload the area and talk to [Simon].
-    
-###### Underground Cells
-- `l` [Brador]
-  :? Behind the door down the stairs.
-- `w` [Fist of Gratia]
+  + ##### [Underground Corpse Pile](@) {#:id}
+    - `b` [Ludwig] the Accursed, [Ludwig] the Holy Blade
+      - :# `y` [Guidance] (+20%)
+      - Underground Corpse Pile [lamp]
+      - `t` [Ludwig]'s Head
+        :i There are three different dialogs you can get. Talking to the head while wearing a church attire chest piece will provide a choice between two, and wearing something else will result in the third.
+        - `w` [Holy Moonlight Sword]
+          :? Talk to [Ludwig]'s head while wearing a church clothing and respond "Yes" to pick it up immediately. Otherwise reload the area and talk to [Simon].
+      
+  + ##### Underground Cells
+    - `l` [Brador]
+      :? Behind the door down the stairs.
+    - `w` [Fist of Gratia]
+    + ###### With [Underground Cell Key] {#unlocked_cells}
+      - [Yamamura Set]
+        :? Kill [Yamamura] in the cell at the end of the hallway.
+      - [Church Pick]
+        :? Kill the hunter in one of the locked cells.
 
-###### Recovery Room
-- [Chunk]
-- [Great One's Wisdom]
-- [Laurence's Skull]
-  :? After activating the elevator, send it up while remaining on the ground floor.
-- [Church Cannon]
-  :? After activating the elevator, send it up while remaining on the ground floor, then pull the lever to bring it back down again and immediately step onto it to go all the way to the bottom.
+  + ##### Recovery Room {#:id}
+    - [Chunk]
+    - [Great One's Wisdom]
+    - [Laurence's Skull]
+      :? After activating the elevator, send it up while remaining on the ground floor.
+    - [Church Cannon]
+      :? After activating the elevator, send it up while remaining on the ground floor, then pull the lever to bring it back down again and immediately step onto it to go all the way to the bottom.

@@ -2,8 +2,4 @@
 
 * Rune list
   * Beast rune decreases fall damage
-  
-- Test
-  - Test
-  - Test
-+ Test
+* Young girl - Formless Oedon (+1)
