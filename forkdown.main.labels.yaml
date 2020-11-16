@@ -26,3 +26,9 @@ labels:
   "iw":
     name: "Invisible wall"
     icon: "🎯"
+  "o":
+    name: "Online"
+    icon: "🌐"
+  "d":
+    name: "The Old Hunters DLC content"
+    icon: "👁️"

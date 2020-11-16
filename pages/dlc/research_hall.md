@@ -2,7 +2,7 @@
 
 `:!` Don't kill the [Wandering Nightmares] if you want to farm chunks.
 
-+ ###### Floor 1 {#:id}
++ ##### Floor 1 {#:id}
   - Research Hall [lamp]
   - `l` [Simon]
     If you talked to [Ludwig]'s head while wearing church attire.
@@ -11,28 +11,28 @@
   - [Wandering Nightmare] (floor)
   - [Wandering Nightmare] (steps)
   
-+ ###### Floor 3: East Side
++ ##### Floor 3: East Side
   - [Madman's Knowledge]
   - `l` [Clocktower Patient]
   
-  + :# Laboratory Floor 3 {#:id}
+  + :# Laboratory {#:id}
     - [Beast Blood Pellet]×6
     - `s` Elevator
       :i To [Laboratory Floor 1].
   
-+ ###### Floor 2: East Side
++ ##### Floor 2: East Side
   - [Decorative Old Hunter Set]
     :? Laboratory Floor 2
   - `l` [Clocktower Patient]
     :? Out on the balcony.
  
-+ ###### Laboratory Floor 1
++ ##### Laboratory Floor 1
   :? To get here, go up to [Laboratory Floor 3] and take the right-side elevator down.
   - `q` [Adeline]
   - `s` Door
     :i To [Floor 1]
 
-+ ###### Floor 2
++ ##### Floor 2: West Side
   - :# Patient Room (dark)
     :i The small, dark room with 6 beds and several [Clocktower Patient]s.
     - `l` [Clocktower Patient] (kneeling)
@@ -41,12 +41,12 @@
   - [Sedatives]×3
     :? Patient Room (light)
 
-+ ###### Floor 4
++ ##### Floor 4
   :? Climb up the ladder in either Patient Room Floor 2.
   - [Dirty Damp Blood Gem] (5)
     :? Patient Room (light)
 
-+ ###### Floor 5 {#:id}
++ ##### Floor 5 {#:id}
   - `s` Elevator
     :i To [Laboratory Floor 3].
   - [Blue Elixir]×4
@@ -54,29 +54,32 @@
     - [Blue Elixir]
     - [Enlarged Head]
     
-+ ###### Rafters
++ ##### Rafters
   - [Great One's Wisdom]
   - [Chunk]
   - `l` [Clocktower Patient]
+  - `y` [Guidance] (+1)
+    :? Dropped by the [Carrion Crow] that falls on to the window ledge from the upper rafters.
+    :i This is the only rune in the game that can be acquired more than once in subsequent (NG+) playthroughs.
   - `!` Pull the lever
     :i Raises the central column and all stairs with it one floor up.
   
-+ ###### Upper Rafters
++ ##### Upper Rafters
   - `e` [Enlarged Head]
     - `! q` [Brain Fluid]
 
 
-#### Central column raised
+#### Central column raised {#research_column}
 
-  + ###### Floor 6: Platform
+  + ##### Floor 6: Platform
     - [Finestrike Damp Blood Gem] (5)
     
-  + ###### Floor 4: Central Column
+  + ##### Floor 4: Central Column
     :? You can now reach this from Floor 5.
     - `e` [Enlarged Head]
       - `! q` [Brain Fluid]
 
-  + ###### Floor 1
+  + ##### Floor 1
     - Lethal Damp [Blood Gem] (5)
     - :# `q` [Adeline]
       1. - Give her [Brain Fluid]
@@ -88,33 +91,32 @@
            :? Now that she's an Enlarged Head, you can kill her to get the third [Brain Fluid], and give it back to her when she comes back to life.
            - :# `y` [Milkweed]
            
-  + ###### 1st Floor Balcony
+  + ##### 1st Floor Balcony
     Requires [Balcony Key].
     - [Blacksky Eye]
-    + :# Recovery Room walkways
+    + :# [Recovery Hall] walkways
       - [Wandering Nightmare]
         :? Left walkway.
       - Pulsing Damp [Blood Gem] (5)
         :? Right walkway, jump over the gap.
   
-  + ###### Floor 2: Platform
+  + ##### Floor 2: Platform
     - `!` [Lock Shield]
 
-  + ###### Floor 3: West Side
+  + ##### Floor 3: West Side
     :? You can now access the west side of the 3rd floor by jumping off the middle East Side platform.
     - `!` [Underground Cell Key](@) {#:id}
       :i Gives access to the [locked cells in the Nightmare Clinic](unlocked_cells).
     
-  + ###### Lumenwood Garden door
+  + ##### Lumenwood Garden door
     - `l` [Clocktower Patient]
     
+### Outside
+
+  - `b` [Living Failures]
+    - :# `!` [Astral Clocktower Key]
+    - Lumenwood Garden [lamp]
     
-## Lumenwood Garden {#:id}
-+ `b` [Living Failures]
-  - :# `!` [Astral Clocktower Key]
-  - Lumenwood Garden [lamp]
-  
-## Astral Clocktower {#:id}
-+ `b` [Lady Maria]
-  - [Celestial Dial]
-  - Astral Clocktower [lamp]
+  - `b` [Lady Maria]
+    - [Celestial Dial]
+    - Astral Clocktower [lamp]

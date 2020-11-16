@@ -31,14 +31,18 @@
   * ---
   * [Yahar'gul, Unseen Village]
   * [Upper Cathedral Ward]
-  * [Orphanage]
   * [Lecture Building 2F]
   * [Nightmare of Mensis]
+    * [Mergo's Loft]
   * ---
   * [Hunter's Dream (endgame)](dream_end)
 * DLC
   * [Hunter's Nightmare]
+    * [Blood River]
+    * [Nightmare Clinic]
   * [Research Hall]
+    * [Central Column Raised]
+    * [Outside]
   * [Fishing Hamlet]
   * [Hunter's Nightmare revisited]
 * Chalices
@@ -59,3 +63,4 @@
     * [Isz Gravestone]
     * [Pthumeru Ihyll]
 * Info
+  * [Time Periods]

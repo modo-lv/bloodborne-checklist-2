@@ -1,5 +1,7 @@
 # [Central Yharnam](@) {#:id}
 
+- Central Yharnam [lamp] {#:id}
+  :i Lighting the lamp unlocks the workshop in [Hunter's Dream].
 - `l` [Gilbert]
   :? The barred window with a red light, next to the [Central Yharnam] [lamp].
   :! Avoid swinging weapons around the window, as hitting it too many times will anger [Gilbert], permanently ending all conversation.
