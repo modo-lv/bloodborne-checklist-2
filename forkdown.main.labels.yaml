@@ -1,34 +1,53 @@
 labels:
-  "l":
-    name: "Lore"
-    icon: "📜"
-  "t":
-    name: "Talk"
-    icon: "💬"
-  "e":
-    name: "Kill (enemy)"
-    icon: "☠️"
-  "r":
-    name: "Reward"
-    icon: "💰"
-  "!":
-    name: "Unlock"
-    icon: "🏷️"
-  "y":
-    name: "Rune"
-    icon: "☮️"
-  "b":
-    name: "Boss"
-    icon: "👾"
-  "q":
-    name: "Quest"
-    icon: "🧩"
-  "iw":
-    name: "Invisible wall"
-    icon: "🎯"
-  "o":
-    name: "Online"
-    icon: "🌐"
-  "d":
-    name: "The Old Hunters DLC content"
-    icon: "👁️"
+  all:
+    "!":
+      name: "Workshop tool / badge"
+      icon: "🏷️"
+    "a":
+      name: "Needed for a trophy"
+      icon: "🏆"
+    "b":
+      name: "Boss"
+      icon: "☠️"
+    "choice":
+      name: "Choice"
+      icon: "🔀"
+    "lamp":
+      name: "Lamp"
+      icon: "🕯️"
+    "d":
+      name: "The Old Hunters DLC content"
+      icon: "🕰️"
+    "e":
+      name: "Enemy"
+      icon: "💀"
+    "g":
+      name: "Gesture"
+      icon: "🙋"
+    "k":
+      name: "Key item"
+      icon: "🗝️"
+    "l":
+      name: "Flavor text / lore"
+      icon: "📜"
+    "o":
+      name: "Online"
+      icon: "🌐"
+    "q":
+      name: "Future reward(s)"
+      icon: "🔮"
+    "s":
+      name: "Unlock a path/shortcut"
+      icon: "🔓"
+    "t":
+      name: "Talk (NPC)"
+      icon: "💬"
+    "iw":
+      name: "Invisible wall"
+      icon: "🎯"
+    "w":
+      name: "Weapon"
+      icon: "🔪"
+    "y":
+      name: "Rune"
+      icon: "☮️"

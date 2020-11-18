@@ -6,5 +6,9 @@ externalLinks:
     - [ "Maneater Boar", "Maneater Boar (Enemy)" ]
     - pattern: "^([Bb]lood [Gg]emstone)$"
       rewrite: "Blood Gems"
+    - [ "Shard", "Blood Stone Shard" ]
+    - [ "Twin Shards", "Twin Blood Stone Shards" ]
+    - [ "Chunk", "Blood Stone Chunk" ]
+    - [ "^Insight shop$", "Bath_Messengers#Insight_Shop" ]
     # Cleanup
     - [ " ", "_" ]

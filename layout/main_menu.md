@@ -1,14 +1,13 @@
 * Afternoon
   * [Hunter's Dream]
   * ---
-  * [1st Floor Sickroom]
+  * [Iosefka's Clinic] (game start)
   * [Central Yharnam]
-  * [Tomb of Oedon]
 * Evening
   * [Hunter's Dream](dream_evening)
-  * [Central Yharnam revisited](yharnam_after_oedon)
   * ---
   * [Cathedral Ward]
+  * [Central Yharnam revisited](yharnam_evening)
   * [Old Yharnam]
   * [Healing Church Workshop]
   * [Inner Cathedral Ward]
@@ -46,7 +45,7 @@
   * [Fishing Hamlet]
   * [Hunter's Nightmare revisited]
 * Chalices
-  * [Farming]
+  * [Runes](chalice_runes)
   * Depth 1 (BL 30+)
     * [Pthumerian Labyrinth]
   * Depth 2 (BL 40+)

@@ -74,12 +74,13 @@
       :i Obtaining this item also unlocks it in the [Insight] shop back at [Hunter's Dream].
       
 + ##### Rooftop
-  - [Chunk] (stairs)
+  - [Chunk]×2 (ledge)
   - `e` [Wandering Nightmare]
     :? At the start of the side-street leading around the central alley with the [Maneater Boar].
   - Nourishing Damp [Blood Gem] (4)
   - [Chunk] (edge)
-  - `l` [Yharnam]
+  - `s` Elevator
+    :i To the middle elevator.
   - [Iosefka's Blood Vial]
   + `b` [Mergo's Wet Nurse]
     :i `weak` Primary weakness: [Arcane], [Fire], [Bolt] and [Rapid Poison]. Secondary weakness: [Slow Poison].
