@@ -17,6 +17,18 @@ The double gate in the courtyard leads to [Central Yharnam].
     + `l` "This night is long"
       `:?` Along with getting your fourth [Iosefka's Blood Vial].
 
+## [Evening] {#clinic_evening}
+
++ `q` [Imposter Iosefka] {:single=iosefka_send}
+  Enable [sending people to Iosefka's Clinic](safe_places).
+  Talk again after sending people here to receive rewards:
+  + `choice` [Young Girl]
+  + `choice` [Lonely Old Dear]
+  + `choice` [Arianna]
+  + `choice` [Old Man]
+  + `choice` [Adella]
+  + `choice` [Afflicted Beggar]
+
 
 ## [Night] {#clinic_night}
 

@@ -1,4 +1,4 @@
-# Safe places {#:id,send}
+# Safe places {#:id,send,safe_place}
 
 Once the game moves from [afternoon] to [evening], you can unlock the option to send several NPCs to either Oedon Chapel or Iosefka's Clinic.
 

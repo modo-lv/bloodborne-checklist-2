@@ -1,15 +1,15 @@
 # [Central Yharnam](@) {#:id}
 
 + `lamp` Central Yharnam {#central_yharnam_lamp}
-  Unlocks the cabin in [Hunter's Dream].
+  - `s` [Cabin in Hunter's Dream](cabin)
 + `l` [Gilbert]
   `:?` The barred window with a red light, next to the Central Yharnam [lamp].
   `:!` Avoid swinging weapons around the window, as hitting it too many times will anger [Gilbert], permanently ending all conversation.
-  + "Paleblood"
-  + "Across the valley"
+  + `l` "Paleblood"
+  + `l` "Across the valley"
   
 
-- #### Main street {#:id}
+- ##### Main street {#:id}
   `:i` The cobblestone street patrolled and guarded by villagers that you inevitably end up on after the Central Yharnam [lamp].
   
   + `s` Gate
@@ -19,7 +19,7 @@
   + [Shard]
   + `l` [Yharnamite] door (well)
   
-- #### Plaza {#yharnam_plaza}
+- ##### Plaza {#yharnam_plaza}
   `:i` The area the [Main Street] leads into, with a fountain in the center.
   
   + [Shard]
@@ -28,7 +28,7 @@
     `:?` Behind some coffins guarded by [Carrion Crow]s.
   + `w` [Torch]
   
-- #### Back alleys {#:id}
+- ##### Back alleys {#:id}
   :::{:help}
   Normally you reach this part of the city by defeating / running past the pair of [Scourge Beast]s on the [Great Bridge] and either dropping down the hole in the ledge on the right, or going down the stairs on the left.
   But you can also reach it from the [Plaza](yharnam_plaza): roll through the boxes on the left of the [Yharnamite] door and drop down through the hole in the fence.
@@ -44,7 +44,7 @@
     `:?` Exit the wooden house through the lower door furthest from the stairs and go up the steps to reach a small metal gate that you can open from this side.
     `:i` Direct path between the Central Yharnam [lamp] and the back alleys.
   
-- #### Dry dock {#:id}
+- ##### Dry dock {#:id}
   `:?` From the [back alleys], go past the kennels and over the short bridge.
   
   + `l` [Lonely Old Dear]
@@ -54,13 +54,13 @@
     + `t` [Eileen the Crow]
       `:?` From where you dropped onto the rafters, turn right and follow the walkway to another set of barrels with an open window behind them.
       - [Bold Hunter's Mark]×4
-      + `g` Shake Off Cape
+      + `g` Shake Off Cape {:single=cape_gesture}
     + [Shard]×2
       `:?` Cut down the corpse hanging on a chain closest to the rafter entrance and drop down into the [lower sewers] after it.
     + `w` [Saw Spear]
       `:?` Cut down the corpse hanging on a chain farthest from the rafter entrance and drop down into the [lower sewers] after it.
   
-- #### Lower [sewers] {#:id}
+- ##### Lower [sewers] {#:id}
   + [Madman's Knowledge]
     `:?` Under the [dry dock], behind the broken boats. If you drop down from the dry dock, you will land nearby. Otherwise, follow the aqueduct towards the dead end and turn left when you reach it.
   + [Oil Urn]×2
@@ -72,7 +72,7 @@
   + `!` [Saw Hunter Badge]
     `:?` In the tunnel the [Maneater Boar] comes out of.
 
-- #### Behind the [plaza] {#:id}
+- ##### Behind the [plaza] {#:id}
   `:?` Until the gate has been opened, this area can only be accessed through the [lower sewers]\: climb up the ladder on the wooden platform on the edge of the open area with several [Rotted Corpse]s.
   
   + [Madman's Knowledge]
@@ -86,7 +86,7 @@
     Agree to find her mother.
     - [Tiny Music Box]
   
-- #### [Great Bridge](@) {#:id}
+- ##### [Great Bridge](@) {#:id}
   + [Shard]
     `:?` Behind the large carriage at the start of the bridge.
   + `b` [Cleric Beast]
@@ -95,7 +95,7 @@
     - `!` [Sword Hunter Badge]
   + `lamp` Great Bridge
   
-- #### Upper [sewers] {#:id}
+- ##### Upper [sewers] {#:id}
   `:?` At the start of the [Great Bridge], facing the pair of [Scourge Beast]s, go down the stairs on the left.
   `:i` Dropping down from the high ledge on to the wooden beams below will land you in [lower sewers].
   
@@ -106,16 +106,18 @@
   + [Hunter Set]
   `:?` Follow the sewers as far as they will go and look to the left when you reach the ledge.
   
-- #### Bridge to the [Tomb of Oedon] {#:id}
+- ##### Bridge to the [Tomb of Oedon] {#:id}
   `:?` Until the elevator has been unlocked, the area can be accessed through the [lower sewers]\: climb up the tall ladder to the right of the [Maneater Boar] tunnel entrance and make your way across the bridge. You can also get past the [Maneater Boar] and use the ladder at the other end of the tunnel — this will take you to the opposite end of the bridge.
   
   + `s` Elevator
     `:?` On the side of the bridge without any enemies.
     `:i` Direct path betwen [back alleys] and this bridge.
+  + `l` [Gilbert] ("the bridge is closed")
+    After defeating [Cleric Beast] on the [Great Bridge].
   + [Bold Hunter's Mark]×2
   
-- #### [Tomb of Oedon](@){#:id}
-  - Graveyard
+- ##### [Tomb of Oedon](@){#:id}
+  - Graveyard {#graveyard}
     + `b` [Father Gascoigne]
       `:i` You can use [Tiny Music Box] to stun Gascoigne up to three times during the first phase, but the third time will start the second phase regardless of boss's health.
       - `k` [Oedon Tomb Key]
@@ -136,18 +138,18 @@
 
   After talking to the [Oedeon Chapel Dweller] in [Cathedral Ward].
 
-  + `q` [Imposter Iosefka]
+  + `q` [Imposter Iosefka] {:single=iosefka_send}
     Enable [sending people to Iosefka's Clinic](safe_places).
     `:!` Anyone sent to the clinic will no longer be available as an interactive NPC. See "[Safe places]" for more details.
   + `t` [Gilbert]
     - `w` [Flamesprayer]
-  + `q` [Send] [Lonely Old Dear]
+  - `q` [Send] [Lonely Old Dear]
     + `choice` To [Oedon Chapel]
-    + `choice` To [Iosefka's Clinic]
-  + [Young Girl]
+    + `choice` To [Iosefka's Clinic](clinic_evening)
+  - [Young Girl]
     + `choice` Give [Red Jeweled Brooch] {:single=young_girl_brooch}
       `:!` Ends her questline without any rewards.
-    + `choice q` [Send] to [Iosefka's Clinic]
+    + `choice q` [Send] to [Iosefka's Clinic](clinic_evening)
     + `choice q` [Send] to [Oedon Chapel]
       + `e` [Maneater Boar]
         `:?` In the [lower sewers]; you must reload the area after talking to the girl.

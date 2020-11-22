@@ -11,7 +11,7 @@ You begin the game in [Iosefka's Clinic], but Hunter's Dream is your base of ope
   `:i` Despite the descriptions, the [Hunter Blunderbuss] isn't any slower than the [Hunter Pistol], the main difference is in the firing distance and damage. The blunderbuss works like a shotgun — it's more likely to hit & stagger close up, but simply can't reach as far as the pistol (and does less damage at medium distance, although firearm damage isn't really a factor in Bloodborne unless you build your character specifically for it).
 + `o` [Notebook]
 
-- ###### Cabin
+- ###### Cabin {#:id}
   Unlocks when you light the [Central Yharnam] [lamp].
   - [Storage]
   - [Workshop]
@@ -39,7 +39,7 @@ You begin the game in [Iosefka's Clinic], but Hunter's Dream is your base of ope
         + `l` "Little ones"
     + `l` Sleeping
     + `l` "Countless hunters"
-      `:?` The dialog changes at an undetermined point as you progress through the game.
+      `:?` The dialog changes at some point during progress through Cathedral Ward. Possibly when lighting the [Old Yharnam] lamp.
     + `l` "Gods and their love"
       `:?` The dialog changes at an undetermined point as you progress through the game.
     + `l` "Ancient echoes"
@@ -47,10 +47,11 @@ You begin the game in [Iosefka's Clinic], but Hunter's Dream is your base of ope
     
 
 ## [Evening] {#dream_evening}
-  + `l` [Gehrman] ("Holy Chalice")
-    Before [Blood-Starved Beast].
-  + `l` [Gehrman] ("Oedon Chapel")
-    After [Blood-Starved Beast].
+  - Before [Blood-Starved Beast]
+    + `l` [Gehrman] ("The moon is close")
+      + `l` [Gehrman] ("Most of the Holy Chalices")
+  - After [Blood-Starved Beast]
+    + `l` [Gehrman] ("Oedon Chapel")
 
 ## [Night] {#dream_night}
   + `! d` [Eye of a Blood-drunk Hunter]
@@ -58,10 +59,10 @@ You begin the game in [Iosefka's Clinic], but Hunter's Dream is your base of ope
   + `l` [Gehrman] ("too old for this")
     Requires 15+ [Insight], doesn't show up on every visit.
     `:?` In the small, overgrown space to the left of the workshop.
-  - `l` [Doll]
-    + `d` "Heavy shackles"
+  - [Doll]
+    + `d l` "Heavy shackles"
       `:?` After defeating [Lady Maria].
-    + `d` "Gehrman sleeping"
+    + `d l` "Gehrman sleeping"
       `:?` After defeating [Orphan of Kos].
 
 ## [Blood Moon] {#dream_moon}
@@ -71,13 +72,13 @@ You begin the game in [Iosefka's Clinic], but Hunter's Dream is your base of ope
 ## [The End] {#dream_end}
   After [Mergo's Wet Nurse].
   + `l` [Doll] ("Gehrman awaits")
-  + Choose an [ending]
-    `:i` You can see (and get [achievement]s for) all endings without replaying the game by backing up your save file and restoring after each one.
-    - `a` Yharnam Sunrise
+  - Choose an [ending]
+    `:i` You can see (and get [trophies] for) all endings without replaying the game by backing up your save file and restoring after each one.
+    + `choice` Yharnam Sunrise
       `:?` Accept [Gherman]'s offer.
-    - `a` Honoring Wishes
+    + `choice` Honoring Wishes
       `:?` Refuse [Gherman]'s offer, **not** having consumed 3 [Third Umbilical Cord]s.
       + `:#` [Old Hunter Badge]
-    - `a` Childhood's Beginning
+    + `choice` Childhood's Beginning
       `:?` Refuse [Gherman]'s offer **having** consumed 3 [Third Umbilical Cord]s.
       + `:#` [Old Hunter Badge]    

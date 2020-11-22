@@ -44,7 +44,7 @@
 - `s` Door to the upper cells {:single=yahargul_cells}
 
 #### Graveyard of the Darkbeast
-- `b` [Darkbeast Paarl] {:single=paarl}
+- `b` [Darkbeast Paarl](@) {#:id :single=paarl}
   `!` [Spark Hunter Badge]
   Encountering Paarl lets you talk to [Djura] back in [Old Yharnam], see [Djura (non-hostile)] for details.
   - Graveyard of the Darkbeast [lamp] {:single=darkbeast_lamp}

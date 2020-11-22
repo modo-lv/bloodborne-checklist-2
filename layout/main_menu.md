@@ -3,17 +3,23 @@
   * ---
   * [Iosefka's Clinic] (game start)
   * [Central Yharnam]
+    * [Great Bridge]
+    * [Tomb of Oedon]
 * Evening
   * [Hunter's Dream](dream_evening)
   * ---
-  * [Cathedral Ward]
-  * [Central Yharnam revisited](yharnam_evening)
+  * [Oedon Chapel](Cathedral_Ward) (Cathedral Ward)
+  * [Central Yharnam](yharnam_evening) (evening)
+  * Outer [Cathedral Ward]
   * [Old Yharnam]
+    * [Church of the Good Chalice]
   * [Healing Church Workshop]
-  * [Inner Cathedral Ward]
+  * Inner [Cathedral Ward]
   * [Hemwick Charnel Lane]
+    * [Witch's Abode]
   * [Hypogean Gaol]
-  * [Grand Cathedral]
+    * [Graveyard of the Darkbeast]
+  * [Grand Cathedral] (Cathedral Ward)
 * Night
   * [Hunter's Dream](dream_night)
   * [NPC doors at night](doors_night)
@@ -34,7 +40,7 @@
   * [Nightmare of Mensis]
     * [Mergo's Loft]
   * ---
-  * [Hunter's Dream (endgame)](dream_end)
+  * [The End](dream_end) (Hunter's Dream)
 * DLC
   * [Hunter's Nightmare]
     * [Blood River]

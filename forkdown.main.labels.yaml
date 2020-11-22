@@ -9,6 +9,9 @@ labels:
     "b":
       name: "Boss"
       icon: "☠️"
+    "chalice":
+      name: "Chalice"
+      icon: "🕎"
     "choice":
       name: "Choice"
       icon: "🔀"
