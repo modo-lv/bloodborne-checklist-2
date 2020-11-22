@@ -70,8 +70,13 @@
       + `lamp` [Church of the Good Chalice]
       + `l` [Gherman] {:single=gherman_after_bsb}
         In [Hunter's Dream].
-
-      You can now access [Healing Church Workshop], [Hypogean Gaol] and [Pthumerian Labyrinth].
+      
+      <br />
+      
+      - `s` [Healing Church Workshop]
+      - `s` [Hypogean Gaol]
+      - `s` [Pthumerian Labyrinth]
+        Chalice dungeon.
 
   #### [Darkbeast Paarl] encountered
   + `t` [Djura] (non-hostile) {#djura_talk}

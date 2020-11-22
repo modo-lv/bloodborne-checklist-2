@@ -58,12 +58,11 @@
       + `lamp` [Old Yharnam]
 
 
-### Inner [Cathedral Ward] {#:id}
+### Inner [Cathedral Ward](@) {#:id}
 :::{:help}
 The most direct way to access this part of the [Cathedral Ward] is to purchase [Hunter Chief Emblem] from the [Messenger Bath] in [Hunter's Dream] (10000 blood echoes) and use it on the main gate (up the winding stairway).
 But you can also go the long way around: head to [Old Yharnam] & defeat the [Blood-Starved Beast], which will unlock [Upper Cathedral Ward], allowing you to reach the plaza through a back way and open all gates from the inside.
 :::
-  - `s` [Hemwick Charnel Lane]
 
   - ##### Straight stairs {#plaza_straight}
     + `s` Side gate
@@ -137,9 +136,22 @@ But you can also go the long way around: head to [Old Yharnam] & defeat the [Blo
     + `e` [Wandering Nightmare] (cave)
       `:?` From the small plaza with the well, go down the narrow winding stairs to find the [Wandering Madness] right at the small cave entrance.
     - Church entrance
-      + `e` [Wandering Nightmare] (church)
-      + `e` [Wandering Nightmare] (church)
+      + `e` [Wandering Nightmare]
+        `:?` In front of the entrance.
+      + `e` [Wandering Nightmare]
+        `:?` In front of the entrance.
       + [Lead Elixir]×3
+
+  - #### [Grove]
+    `:?` Go up the grand stairs and turn left before the last set of steps (where the pair of [Black Church Servant]s are).
+    The grove of trees filled with Rifle [Huntsmen](Huntsman), leads to [Hemwick Charnel Lane].
+    - Approach
+      + [Bloodshot Eyeball]
+      + [Bold Hunter's Mark]×3
+    + [Bone Marrow Ash]×9
+    + [Twin Shards]
+      `:?` Across the grove from the entrance, on the right.
+
 
   - #### [Grand Cathedral](@) {#:id}
     `:?` At the very top of the central stairs.

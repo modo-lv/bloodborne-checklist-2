@@ -14,7 +14,7 @@
   * [Old Yharnam]
     * [Church of the Good Chalice]
   * [Healing Church Workshop]
-  * Inner [Cathedral Ward]
+  * Inner [Cathedral Ward](inner_cathedral_ward)
   * [Hemwick Charnel Lane]
     * [Witch's Abode]
   * [Hypogean Gaol]
