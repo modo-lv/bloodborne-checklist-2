@@ -1,1 +1,1 @@
-Made by [modo_lv](http://modo.lv) with [Forkdown](https://github.com/modo-lv/Forkdown). More guides at [guides.modo.lv](http://guides.modo.lv).
+Made by [modo_lv](http://modo.lv) with [Forkdown](https://github.com/modo-lv/Forkdown). Source code [at GitHub](https://github.com/modo-lv/bloodborne-checklist-2). More guides at [guides.modo.lv](http://guides.modo.lv).
