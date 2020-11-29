@@ -5,7 +5,7 @@ The double gate in the courtyard leads to [Central Yharnam].
 ## [Afternoon] {#clinic_afternoon}
 
 - ##### Before [Hunter's Dream]
-  + `l` Note {:single=note_sickroom}
+  + `l` Note ("Seek Paleblood") {:single=note_sickroom}
     `:?` On a chair next to the stretcher where you start the game. Once you visit [Hunter's Dream], the door will be locked and you won't be able to reach it until [night]fall.
 
 - ##### After [Hunter's Dream]
@@ -25,17 +25,17 @@ The double gate in the courtyard leads to [Central Yharnam].
   + `choice` [Young Girl]
   + `choice` [Lonely Old Dear]
   + `choice` [Arianna]
-  + `choice` [Old Man]
+  + `choice` [Narrow Minded Man]
   + `choice` [Adella]
   + `choice` [Afflicted Beggar]
 
 
 ## [Night] {#clinic_night}
 
-  `:i` The interior of Iosefka's Clinic can be reached from [Forbidden Forest].
+  Initially reachable only from the [Forbidden Forest].
 
-  - ##### Cave
-    `:?` Go up the slope to the left of the village entrance in the [Forbidden Forest], and find a small path behind one of the kennels.
+  - ##### Poison cave {#id}
+    `:?` Follow the hidden path behind the kennesl in [village approach] ([Forbidden Woods]).
     + [Dirty Blood Gemstone] (3)
       `:?` At the green-lit obelisk in the middle of the pool.
     + [Nourishing Blood Gemstone] (2)
@@ -50,15 +50,33 @@ The double gate in the courtyard leads to [Central Yharnam].
     + [Madman's Knowledge]
 
   - ##### Clinic
-    + `l` Note {:single=note_sickroom}
+    + `l` Note ("Seek Paleblood") {:single=note_sickroom}
       `:?` On a chair next to the stretcher where you started the game.
     + [Cainhurst Summons]
     + `e` [Celestial Minion] (bookshelf)
       + [Iosefka's Blood Vial]
+    + `e` [Celestial Minion] (crouching)
+      If you sent [Afflicted Beggar] here.
+      + `y` [Beast] (+50) {:single=beast50}
     + `e` [Celestial Minion] (window)
-      If you sent [Afflicted Beggar] to [Iosefka's Clinic].
-      + `y` [Beast] (+50)
+      If you sent [Arianna] here.
+      + `a` [Arianna's Shoes]
+    + `e` [Celestial Minion] (walking, hallway)
+      If you sent [Young Girl] here.
+      + `y` [Formless Oedon] (+1)
+    + `e` [Celestial Minion] (wall)
+      If you sent [Adella] here.
+      + `y` [Oedon Writhe] (+1)
+    + `e` [Celestial Minion] (walking, intersection)
+      If you sent [Narrow Minded Man] here.
+      + [Pungent Blood Cocktail]×3
     + `y` [Communion] (+3)
       `:?` In a chest in a room at the end of the hallway.
-    + `e` [Fake Iosefka]
-      + `y` [Oedon Writhe] (+2)
+    + `e` [Celestial Minion] (medicine shelf)
+      If you sent [Lonely Old Dear] here.
+      + [Sedatives]
+    - [Fake Iosefka]
+      + `l` [Fake Iosefka] ("moonlit scents")
+      + `choice` Kill her now
+        + `y` [Oedon Writhe] (+2)
+      + `choice q` Leave her alive for now

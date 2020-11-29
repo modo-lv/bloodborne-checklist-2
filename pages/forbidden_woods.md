@@ -21,28 +21,40 @@ Everything up to and including the windmill.
   + [Twin Shards] (ledge)
     `:?` Go left along the edge of the ravine.
   + [Twin Shards] (campfires)
-  + `k` [Wandering Nightmare]
+  + `e` [Wandering Nightmare]
     `:?` Turn right after passing the campfires with several villagers and dogs, into a dark passage with the [Wandering Nightmare] and some [Carrion Crow]s.
 
-#### Village
-`:?` The stretch of wood houses with a lit gate at the one end and a large, plank-covered pit at the other.
+#### Village approach {#village_approach}
+The sloped area in front of the village gate.
 + [Beast Blood Pellet]×3
   `:?` In the wooden shack [Large Huntsman] comes out of, near the patch of yellow flowers.
-- Up the slope
-  `:?` Turn left (or right if you're coming from inside) just outside the village gate.
-  `:i` The path to [Iosefka's Clinic] starts here.
-  + `t` NPC door
-    `:?` On your left as you make your way up the slope.
-    `:i` [Tonsil Stone] grants access to [Lecture Building, 1st floor]. You can actually receive the stone from *any* NPC door once [night] has begun. Once received, the doors revert to their normal responses.
-    `r` [Tonsil Stone]
-    + `l` NPC door
-      After reloading the area.
-  + [White Church Set]
-    `:?` Roof of the building just after kennels.
-  + [Beast Roar]
-    `:?` In the house at the back.
-  + [Blue Elixir]×4
-    `:?` In the house in front of the wood gate.
++ `t` [Yharnamite] door
+  `:?` On your left as you make your way up the slope.
+  `:i` [Tonsil Stone] grants access to [Lecture Building, 1st floor].
+  + `k` [Tonsil Stone]
+  + `l` "Would you stop that"
+    After reloading the area.
++ [White Church Set]
+  `:?` Roof of the building just after kennels.
++ [Beast Roar]
+  `:?` In the house at the back.
++ [Blue Elixir]×4
+  `:?` In the house in front of the wood gate.
+- There is a hidden path leading to the [Poison Cave] under [Iosefka's Clinic].
+
+#### Oil pool
+Elongated pool of oil, populated by [Rotted Corpses] and with villagers throwing [Molotov Cocktails] from above. Connects the village with the windmill.
+`:?` You can reach here by either going past the large pit (away from the village), or by going up the slope on the left of the village gate, making your way onto the rooftops and dropping down in the middle of the pool. The latter allows you to take out the villagers throwing [Molotov Cocktails], allowing you to traverse the oil pool safely.
++ [Twin Shards]×2
+- Shortcut passage
+  `:?` Coming from the village, on the right near the end of the pool.
+  + [Twin Shards]
+  + [Twin Shards]
+  + `s` Back gate
+    `:i` Connecting the end of the oil pool with the village.
+
+#### Village
+The stretch of wood houses with a lit gate at the one end and a large, plank-covered pit at the other.
 + [Pungent Blood Cocktail]×4
   `:?` Near the pit.
 + [Pungent Blood Cocktail]×3
@@ -50,19 +62,8 @@ Everything up to and including the windmill.
 + [Beast Blood Pellet]×6
   `:?` In the house with the closed door next to the gate, you have to go around and enter through a hole in the back wall.
 
-#### Oil pool
-`:i` An elongated pool of oil, populated by [Rotted Corpses] and with villagers throwing [Molotov Cocktails] from above. Connects the village with the windmill.
-`:?` You can reach here by either going past the large pit (away from the village), or by going up the slope on the left of the village gate, making your way onto the rooftops and dropping down in the middle of the pool. The latter allows you to take out the villagers throwing [Molotov Cocktails], allowing you to traverse the oil pool safely.
-- Shortcut passage
-  `:?` Coming from the village, on the right near the end of the pool.
-  + [Twin Shards]
-  + [Twin Shards]
-  + `s` Backdoor
-    `:i` Connecting the end of the oil pool with the pit area.
-+ [Twin Shards]×2
 
-
-#### Windmill {#`:i`d}
+#### Windmill {#:id}
 - Outside
   + [Beast Blood Pellet]×4
     `:?` In the house with a [Large Hunstman], to the left as you approach the cannon.
@@ -72,11 +73,13 @@ Everything up to and including the windmill.
   `:?` Enter the windmill, and go around to another doorway (without going downstairs). Drop down and then climb the ladder to reach the rafters. Crossing over the gears will lead to the facade roof.
   + [Poison Knife]×8
   + [Poison Knife]×3
-  + `t` [Afflicted Beggar]
-    Send him to [Iosefka's Clinic].
-    `:i` Sending him to [Iosefka's Clinic] will gain you [Beast] (+50) [rune] without having to fight him (when you reach [Iosefka's Clinic], but you can also attack him here and get it immediately.
-    :! Sending him to [Oedon Chapel] will result in the deaths of other NPCs there.
-    `r` [Pungent Blood Cocktail]×2
+  + [Afflicted Beggar]
+    + `choice q` [Send] to [Iosefka's Clinic]
+    + `choice q` [Send] to [Oedon Chapel]
+      `:!` Sending him to [Oedon Chapel] will result in the deaths of other NPCs there.
+    + `choice` Kill him
+      + `y` [Beast] (+50) {:single=beast50}
+        `:i` Can be gotten later without a fight if sent to [Iosefka's Clinic].
   + [Cannon]
     `:?` Drop down the cogs.
 + [Madman's Knowledge]
@@ -87,17 +90,26 @@ Everything up to and including the windmill.
 `:?` Exit the windmill, cross the bridge and go up the slope on the right.
 + [Twin Shards] (past the elevator)
 + `s` Elevator
-  `:i` Connects this area with the [Forbidden Woods] [lamp].
- + `q` [Valtr]
-   Agree to join [The League]
-   `r` [Impurity].
-   + `q` After crushing 1 [Vermin]
-     `r` [League Cane], "League Oath" [gesture].
-     + `q` After crushing 5 [Vermin]
-       Reload the are after talking to him.
-       `r` [Master's Iron Helm]
-       + `e` [Younger Madaras Twin]
-         `r` [Madaras Whistle]
+  `:i` Connects this area with the shack in the starting area.
+  + `s` Shack gate
+    `:i` Opens a path between the starting lamp and the elevator that takes you to the second part of the woods.
+  + `q` [Valtr]
+    Agree to join [The League].
+    + `l` "The League exists"
+    + `y` [Impurity]
+    - After crushing 1 [Vermin]
+      `:?` To acquire [Vermin], you must be online and co-op with other players while having [Impurity] [rune] equipped. The only way to gain them offline is by killing certain hunters in the [DLC], but there are only 3 of those, so acquiring all 5 vermin requires two playthroughs.
+      Reload the area.
+      + [League Staff]
+      + `g` League Oath
+      + `choice` Talk after crushing 5 [Vermin]
+        + `a` [Master's Iron Helm]
+      + `choice` Kill him
+        + `a` [One-eyed Iron Helm]
+      + `e` [Younger Madaras Twin]
+        Reload the area after either choice.
+        + [Madaras Whistle]
+
 
 
 ## Part 2 {#fb_2}
