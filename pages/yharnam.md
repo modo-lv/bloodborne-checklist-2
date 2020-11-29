@@ -154,3 +154,12 @@
       + `e` [Maneater Boar]
         `:?` In the [lower sewers]; you must reload the area after talking to the girl.
           + `k` [Red Messenger Ribbon]
+
+
+## [Night] {#yharnam_night}
+
++ `l` [Gilbert] ("Byrgenwerth")
++ `l` [Yharnamite] door ("Stop!")
+  `:?` Main street.
++ `l` [Yharnamite] door ("Poor you!")
+  `:?` Plaza.

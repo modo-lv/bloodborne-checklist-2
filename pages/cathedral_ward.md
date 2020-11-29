@@ -74,14 +74,14 @@ But you can also go the long way around: head to [Old Yharnam] & defeat the [Blo
       `:?` Climb up the ladder behind the gate.
       + [Numbing Mist]×6
       + `k` [Black Messenger Hat]
-    - [Eileen the Crow]
+    - [Eileen the Crow] {:single=eileen_2}
       `:?` Immediately to the left as you exit [Oedon Chapel].
       Appears after opening both [Plaza] gates.
       `:!` You have to kill [Henryk] before [night]fall, or the questline will end.
       `:i` You don't have to talk to her here if you did so in [Central Yharnam], but you still have to kill [Henryk] before [night]fall.
       + `g` Shake off Cape {:single=cape_gesture}
       + `g` Shh!
-      + `e q` [Henryk]
+      + `e q` [Henryk] {:single=henryk}
         `:?` In the [Tomb of Oedon graveyard](graveyard).
         `:!` If [Eileen] dies or you accidentally damage her too many times and turn her hostile, her questline will end.
         + `y` [Heir] (+30%)
@@ -159,6 +159,45 @@ But you can also go the long way around: head to [Old Yharnam] & defeat the [Blo
       - [Gold Pendant]
         + [Gold Blood Gem]
       + `lamp` Grand Cathedral
+    - Before examining the altar
+      :::{:warn}
+      Examining the altar after the fight starts the **[night]**:
+      * [Yharnamite] door and [Oedon Chapel] NPC dialogs will update.
+      * [Henryk] will no longer be available to fight; if not defeated during [evening], [Eileen]'s questline will be aborted.
+      :::
     + Examine the altar 
       `:i` Gains password for the [Forbidden Woods].
-      `:!` Advances time, starting the **[night]**!
+      * `s` New NPC dialog: [Oedon Chapel](oedon_night), [Cathedral Ward](cathedral_night), [Central Yharnam](yharnam_night).
+
+
+## [Night] {#cathedral_night}
+
+- ##### [Oedon Chapel](@) {#oedon_night}
+  + `t choice` [Lonely Old Dear]
+    + [Sedative]
+      `:?` Answer "I have my share of woes".
+      + [Sedative]×2
+        `:?` Answer "I have my share of woes" after getting the first [sedative] (area reload required).
+        + [Sedative]×3
+          `:?` Answer "I have my share of woes" after getting the pair of [sedative]s (area reload required).
+          `:!` Trying to get more sedatives will end in her death.
+          + [Sedative]
+            `:?` Answer "I have my share of woes" after getting the set of 3 [sedative]s (area reload required). Her corpse will be just outside the chapel.
+  + `t choice` [Arianna]
+    + [Arianna's Blood]
+      Availabel until [Blood Moon].
+      `:i` Just like [Iosefka's Blood Vial], you can get more when you spend it.
+  + `t choice` [Adella]
+    + `g` "Church Bow (Female)"
+    + [Adella's Blood]
+      Available until [Blood Moon].
+      `:i` Just like [Iosefka's Blood Vial], you can get more when you spend it.
+      `:!` [Arianna] will die if you accept [Arianna's Blood] more than twice with [Adella] around.
+
+- ##### Alley
+  + `l` [Yharnamite] door ("My baby!")
+  + `l` [Yharnamite] door ("Help me...")
+
+- ##### Plaza: side passage
+  + `l` [Alfred] ("Vilebloods")
+  - `s` [Forbidden Woods]

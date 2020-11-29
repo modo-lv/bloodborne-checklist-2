@@ -8,21 +8,24 @@
 * Evening
   * [Hunter's Dream](dream_evening)
   * ---
+  * [Central Yharnam](yharnam_evening)
+  * ---
   * [Oedon Chapel](Cathedral_Ward) (Cathedral Ward)
-  * [Central Yharnam](yharnam_evening) (evening)
   * Outer [Cathedral Ward]
   * [Old Yharnam]
     * [Church of the Good Chalice]
   * [Healing Church Workshop]
   * Inner [Cathedral Ward](inner_cathedral_ward)
-  * [Hemwick Charnel Lane]
+  * [Hemwick Charnel Lane] (optional)
     * [Witch's Abode]
-  * [Hypogean Gaol]
+  * [Hypogean Gaol] (optional)
     * [Graveyard of the Darkbeast]
   * [Grand Cathedral] (Cathedral Ward)
 * Night
   * [Hunter's Dream](dream_night)
-  * [NPC doors at night](doors_night)
+  * ---
+  * [Central Yharnam](yharnam_night)
+  * [Cathedral Ward](cathedral_night)
   * ---
   * [Forbidden Woods] (part 1)
   * [Iosefka's Clinic]

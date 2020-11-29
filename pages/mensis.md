@@ -73,7 +73,7 @@
     - :# `!` [Living String]
       :i Obtaining this item also unlocks it in the [Insight] shop back at [Hunter's Dream].
       
-+ ##### Rooftop
++ ##### Rooftop {#mergo_rooftop}
   - [Chunk]×2 (ledge)
   - `e` [Wandering Nightmare]
     :? At the start of the side-street leading around the central alley with the [Maneater Boar].
